@@ -4,7 +4,7 @@ import ProjectCard from "@/components/ProjectCard";
 import SectionHeading from "@/components/SectionHeading";
 import { projects } from "@/data/projects";
 
-const linkedin = "https://www.linkedin.com/in/wilson-pranajaya-tunggala-239016324/";
+const linkedin = "https://www.linkedin.com/in/wilson-tunggala/";
 const github = "https://github.com/WilsonTunggala1";
 const cv = "/Wilson_Pranajaya_Tunggala_CV.pdf";
 const skills = [
